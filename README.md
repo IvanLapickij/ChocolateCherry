@@ -1,5 +1,5 @@
 # chocolateSprint2
-Cherry Chocolate is a dynamic web application built using PHP and integrated with POSTMAN for efficient API handling. 
+Cherry Chocolate is a dynamic web application built using PHP and integrated with POSTMAN for efficient API handling and MySQL Database. 
 ![image](https://github.com/IvanLapickij/chocolateSprint2/assets/116425938/9be631c0-555e-4fa8-ab3c-8a68834f8b69)
 
 The project focuses on showcasing a delightful collection of chocolate bars through an intuitive user interface.
