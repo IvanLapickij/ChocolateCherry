@@ -1,0 +1,26 @@
+/* 
+    Created on : 27 Oct 2023, 00:45:18
+    Author     : Ivan
+*/
+
+body {
+    background-image: url('BackgroundChocolate.jpg');
+    background-size: cover; 
+
+}
+@keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    .fade-out {
+        animation: fadeOut 2s forwards;
+    }
+
+    .fade-in {
+        animation: fadeIn 1s forwards;
+    }
