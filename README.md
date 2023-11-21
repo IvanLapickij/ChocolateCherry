@@ -12,3 +12,4 @@ Why Cherry Chocolate?
 Cherry Chocolate is not just a web application; it's a sweet journey into the world of delectable chocolate bars. With a user-friendly interface, robust authentication, and seamless data modification capabilities, Cherry Chocolate offers chocolate enthusiasts an immersive experience in exploring and managing their favorite treats.
 
 *Indulge in the world of Cherry Chocolate—where sweetness meets functionality!*
+![image](https://github.com/IvanLapickij/chocolateSprint2/assets/116425938/7f720090-cd37-48d1-b9d5-16ad61ad1599)
